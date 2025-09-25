@@ -1,1 +1,1 @@
-web: python stt.py
+web: python tts.py
